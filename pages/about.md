@@ -12,7 +12,7 @@ I'm a passionate software developer who found his true calling in DevOps and clo
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+{% include about/skills.html title="DevOps & Cloud" source=site.data.devops-skills %}
 </div>
 
 <div class="row">

@@ -1,17 +1,22 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title:  Epidata
+  from: Jun 2024  
+  to: presente
+  description: Desarrollador DevOps implementando infraestructura cloud con Terraform (EKS, RDS Aurora, VPCs) 
+               y pipelines CI/CD en Azure DevOps. Automatización de despliegues con ArgoCD (GitOps) y migración 
+               de datos on-premise a AWS usando DMS. Configuración de arquitecturas serverless con Lambda y API Gateway.
+- title: Initium Software
+  from: Jun 2024
+  to: Mar 2022
+  description: Desarrollador FullStack liderando plataforma de analytics con ReactJS/Redux y backend AWS (Rekognition, Bedrock).
+               Implementación de infraestructura como código con AWS CDK (ECS, API Gateway) para proyectos Ziptransfer (sistema de transporte)
+               y Aurapay (plataforma de remesas).
+- title: Agrosuper
+  from: Ene 2022
+  to: Oct 2021
+  description: Desarrollador Frontend creador de landing page interactiva con tour 360° de plantas industriales usando ReactJS,
+               desplegada en DigitalOcean con Cpanel.
+- title: Vilo Technologies
+  from: Sep 2021
+  to: Abr 2021
+  description: Desarrollador web implementando e-commerce con pagos en criptomonedas y
+               sistema de monitoreo para mineros Antminer S9. Dockerización y despliegue en EC2.

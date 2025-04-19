@@ -1,7 +1,5 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
-
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: AWS/Azure
+- name: CI/CD
+- name: Docker
+- name: Kubernetes
+- name: Networking

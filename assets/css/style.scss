@@ -1,0 +1,17 @@
+---
+---
+/* Oculta las barras de progreso y su contenedor */
+
+.row.justify-content-between.align-items-center > .col-2.text-right,
+.progress.mb-4.bg-themed,
+.progress.mb-4.bg-themed .progress-bar {
+  display: none !important;
+  height: 0 !important;
+  width: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  opacity: 0 !important;
+}
+
+
+@import "portfolYOU";

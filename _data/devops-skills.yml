@@ -1,0 +1,9 @@
+# _data/devops-skills.yml
+- name: Terraform (HCL)
+- name: Kubernetes
+- name: Helm
+- name: AWS (Certified Architect)
+- name: GCP
+- name: Docker
+- name: ArgoCD
+- name: CI/CD
