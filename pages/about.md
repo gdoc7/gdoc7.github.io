@@ -7,9 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** 👋,<br>
-I'm a passionate software developer who found his true calling in DevOps and cloud infrastructure, with a strong focus on AWS solutions. My expertise lies in bridging the gap between development and operations building scalable, secure, and automated systems that just work.
-
+Hola soy  **{{ site.author.name }}** 👋, <br> Ingeniero DevOps y Cloud Architect especializado en AWS. Mi pasión es transformar infraestructuras manuales en sistemas automatizados y escalables usando Terraform, Kubernetes y pipelines CI/CD. Con experiencia tanto en desarrollo como en operaciones, me enfoco en crear soluciones que unan ambos mundos de forma eficiente y segura. En este blog comparto guías prácticas, casos reales y lecciones aprendidas sobre arquitectura cloud, automatización y optimización de costos. Cuando no estoy diseñando sistemas en la nube, probablemente esté explorando nuevas herramientas CNCF
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="DevOps & Cloud" source=site.data.devops-skills %}

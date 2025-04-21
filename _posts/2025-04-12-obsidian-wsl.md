@@ -36,7 +36,7 @@ alias obsidian="nohup /Ruta/a/tu/carpeta/squashfs-root/AppRun > /dev/null 2>&1 &
 Ahora al usar el comando `obsidian` en la terminal, se estaría ejecutando en segundo plano la aplicación y podemos seguir trabajando en la terminal mientras usamos Obsidian.
 
 ## Usos
-Desde la UI podemos observar nuestras notas creadas desde otras fuentes. En mi caso en la siguiente imagen podemos observar como se ven las notas creadas desde mi puglin de obsidian en Neovim.
+Desde la UI podemos observar nuestras notas creadas desde otras fuentes. En mi caso en la siguiente imagen podemos observar como se ven las notas creadas desde mi plugin de obsidian en Neovim.
 
 {% include elements/figure.html image="../assets/obsidian-ss.jpg" caption="Vision grafica de las notas creadas con Neovim" %}
 
@@ -58,7 +58,7 @@ Para usar Obsidian desde Neovim con LazyVim primero debemos crear la siguiente e
     └── 📁templates
 ```
 
-Una vez creada la estructura de carpetas para el vault y siguiento la [Estrucutura de carpetas](https://www.lazyvim.org/configuration) de LazyVim crearemos un fichero dentro de la carpeta puglin llamado `obsidian.lua` con la configuración para activar el puglin obsidian.nvim, siguiendo el siguiente fichero
+Una vez creada la estructura de carpetas para el vault y siguiento la [Estructura de carpetas](https://www.lazyvim.org/configuration) de LazyVim crearemos un fichero dentro de la carpeta plugin llamado `obsidian.lua` con la configuración para activar el plugin obsidian.nvim, siguiendo el siguiente fichero
 ```lua
 
 -- This file contains the configuration for the obsidian.nvim plugin in Neovim.
